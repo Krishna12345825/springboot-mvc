@@ -8,6 +8,7 @@ public class BootMvcProj02WishMessageAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootMvcProj02WishMessageAppApplication.class, args);
+		System.out.println("krishna");
 	}
 
 }
